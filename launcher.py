@@ -1,5 +1,4 @@
-#email: andrei42069@outlook.com
-#pass: ghydfi54679BDKAJ
+
 import os
 import tkinter as tk
 from PIL import Image, ImageTk
